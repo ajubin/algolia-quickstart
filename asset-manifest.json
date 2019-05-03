@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/algolia-quickstart/static/css/main.3e545749.chunk.css",
+    "main.js": "/algolia-quickstart/static/js/main.8353e75a.chunk.js",
+    "main.js.map": "/algolia-quickstart/static/js/main.8353e75a.chunk.js.map",
+    "runtime~main.js": "/algolia-quickstart/static/js/runtime~main.5a1c7234.js",
+    "runtime~main.js.map": "/algolia-quickstart/static/js/runtime~main.5a1c7234.js.map",
+    "static/js/2.b41502e9.chunk.js": "/algolia-quickstart/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/algolia-quickstart/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/algolia-quickstart/index.html",
+    "precache-manifest.7ae50d953f9036be7977e8d63eafcebb.js": "/algolia-quickstart/precache-manifest.7ae50d953f9036be7977e8d63eafcebb.js",
+    "service-worker.js": "/algolia-quickstart/service-worker.js",
+    "static/css/main.3e545749.chunk.css.map": "/algolia-quickstart/static/css/main.3e545749.chunk.css.map",
+    "static/media/logo.svg": "/algolia-quickstart/static/media/logo.5d5d9eef.svg"
+  }
+}
