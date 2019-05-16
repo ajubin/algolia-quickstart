@@ -1,4 +1,4 @@
-export interface Hit {
+interface Hit {
   points: number;
   title: string;
   description: string;

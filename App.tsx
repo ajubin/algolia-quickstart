@@ -39,7 +39,6 @@ export class App extends Component<Props> {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: "center",
     justifyContent: "flex-start",
     backgroundColor: "white",
   },

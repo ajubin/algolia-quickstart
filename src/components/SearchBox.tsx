@@ -1,5 +1,5 @@
 import React from "react";
-import { TextInput, StyleSheet, View } from "react-native";
+import { TextInput, StyleSheet } from "react-native";
 import { connectSearchBox } from "react-instantsearch/connectors";
 
 interface Props {
@@ -11,19 +11,17 @@ export const SearchBoxComponent: React.FC<Props> = ({
   onChangeText,
   value,
 }) => (
-  <View style={styles.searchTextContainer}>
-    <TextInput
-      onChangeText={onChangeText}
-      value={value}
-      style={styles.textBox}
-      placeholder="fruity red and spicy"
-      placeholderTextColor="#BBBBBB"
-      clearButtonMode="always"
-      spellCheck={true}
-      autoCorrect={true}
-      autoFocus={true}
-    />
-  </View>
+  <TextInput
+    onChangeText={onChangeText}
+    value={value}
+    style={styles.textBox}
+    placeholder="fruity red and spicy"
+    placeholderTextColor="#BBBBBB"
+    clearButtonMode="always"
+    spellCheck={true}
+    autoCorrect={true}
+    autoFocus={true}
+  />
 );
 
 export const SearchBox = connectSearchBox(({ refine, currentRefinement }) => {
@@ -41,8 +39,5 @@ const styles = StyleSheet.create({
     margin: 10,
     color: "#6E6E6E",
     fontSize: 14,
-  },
-  searchTextContainer: {
-    alignSelf: "stretch",
   },
 });
