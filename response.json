@@ -1,0 +1,497 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "points": "88",
+          "title": "Rex Hill 2013 Pinot Noir (Willamette Valley)",
+          "description": "Fruity and forward, this is a pretty, approachable wine with bright berry and cherry fruit. There's a strong note of citrus, particularly orange flesh and rind, and it's the sort of no-nonsense, gluggable wine that one rarely finds associated with Pinot Noir. This will be best enjoyed by 2018.",
+          "taster_name": "Paul Gregutt",
+          "taster_twitter_handle": "@paulgwine ",
+          "price": 35,
+          "designation": null,
+          "variety": "Pinot Noir",
+          "region_1": "Willamette Valley",
+          "region_2": "Willamette Valley",
+          "province": "Oregon",
+          "country": "US",
+          "winery": "Rex Hill",
+          "objectID": "387374732",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and forward, this is a pretty, approachable wine with bright berry and cherry <ais-highlight-0000000000>fruit</ais-highlight-0000000000>. There's a strong note of citrus, particularly orange flesh and rind, and it's the sort of no-nonsense, gluggable wine that one rarely finds associated with Pinot Noir. This will be best enjoyed by 2018.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "85",
+          "title": "Château de la Vieille Tour 2014  Bordeaux Blanc",
+          "description": "Fruity and crisp, this is an attractive lemon and pear-flavored wine from certified organic vineyards. With fresh, balanced acidity and a creamy texture, this 60% Sauvignon and 40% Sémillon blend is ready to drink.",
+          "taster_name": "Roger Voss",
+          "taster_twitter_handle": "@vossroger",
+          "price": 16,
+          "designation": null,
+          "variety": "Bordeaux-style White Blend",
+          "region_1": "Bordeaux Blanc",
+          "region_2": null,
+          "province": "Bordeaux",
+          "country": "France",
+          "winery": "Château de la Vieille Tour",
+          "objectID": "387370152",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and crisp, this is an attractive lemon and pear-flavored wine from certified organic vineyards. With fresh, balanced acidity and a creamy texture, this 60% Sauvignon and 40% Sémillon blend is ready to drink.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "86",
+          "title": "Wines & Winemakers 2014 Companhia das Lezírias Herdade de Catapereiro White (Tejo)",
+          "description": "Fruity and aromatic, this blend of Fernão Pires, Arinto and Sauvignon Blanc is fresh with attractive acidity and also riper tropical fruit and pear flavors. It has a mineral texture that gives the a fine structure. Drink now.",
+          "taster_name": "Roger Voss",
+          "taster_twitter_handle": "@vossroger",
+          "price": 12,
+          "designation": "Companhia das Lezírias Herdade de Catapereiro",
+          "variety": "Portuguese White",
+          "region_1": null,
+          "region_2": null,
+          "province": "Tejo",
+          "country": "Portugal",
+          "winery": "Wines & Winemakers",
+          "objectID": "387365012",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and aromatic, this blend of Fernão Pires, Arinto and Sauvignon Blanc is fresh with attractive acidity and also riper tropical <ais-highlight-0000000000>fruit</ais-highlight-0000000000> and pear flavors. It has a mineral texture that gives the a fine structure. Drink now.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "93",
+          "title": "Bodega Catena Zapata 2006 Nicolas Catena Zapata Red (Mendoza)",
+          "description": "Fruity, floral and calm on the nose, with nothing aggressive or out of place. The palate is deep, flush and offers great mouthfeel, while the flavors run toward big, juicy berry, cassis and chocolate. Like most Catena high-enders, this Cabernet-Malbec blend features a toasty finish of coffee and mocha, and overall it's stylish and impressive. Drink now through 2014.",
+          "taster_name": "Michael Schachner",
+          "taster_twitter_handle": "@wineschach",
+          "price": 120,
+          "designation": "Nicolas Catena Zapata",
+          "variety": "Red Blend",
+          "region_1": "Mendoza",
+          "region_2": null,
+          "province": "Mendoza Province",
+          "country": "Argentina",
+          "winery": "Bodega Catena Zapata",
+          "objectID": "387354702",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y, floral and calm on the nose, with nothing aggressive or out of place. The palate is deep, flush and offers great mouthfeel, while the flavors run toward big, juicy berry, cassis and chocolate. Like most Catena high-enders, this Cabernet-Malbec blend features a toasty finish of coffee and mocha, and overall it's stylish and impressive. Drink now through 2014.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "88",
+          "title": "Rutherford Grove 2005 Spring Creek Vineyard Petite Sirah (St. Helena)",
+          "description": "Fruit stars in this dry, young Petite Sirah. It explodes with jammy flavors of blackberries, cassis, cherries, licorice and plums, with a generous dusting of cinnamon and cocoa. It's distinguished, while holding onto the variety's brawny rusticity.",
+          "taster_name": null,
+          "taster_twitter_handle": null,
+          "price": 37,
+          "designation": "Spring Creek Vineyard",
+          "variety": "Petite Sirah",
+          "region_1": "St. Helena",
+          "region_2": "Napa",
+          "province": "California",
+          "country": "US",
+          "winery": "Rutherford Grove",
+          "objectID": "387353302",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000> stars in this dry, young Petite Sirah. It explodes with jammy flavors of blackberries, cassis, cherries, licorice and plums, with a generous dusting of cinnamon and cocoa. It's distinguished, while holding onto the variety's brawny rusticity.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "80",
+          "title": "Hermes 2006 Estate Bottled Nebbiolo (Ohio)",
+          "description": "Fruits, flowers and spice should lead the nose and bathe the palate with this Nebbiolo, but the wine falls flat, with bitter, sweet flavors that are astringent in nature and lack elegance.",
+          "taster_name": "Susan Kostrzewa",
+          "taster_twitter_handle": "@suskostrzewa",
+          "price": 15,
+          "designation": "Estate Bottled",
+          "variety": "Nebbiolo",
+          "region_1": "Ohio",
+          "region_2": null,
+          "province": "Ohio",
+          "country": "US",
+          "winery": "Hermes",
+          "objectID": "387352042",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>s, flowers and spice should lead the nose and bathe the palate with this Nebbiolo, but the wine falls flat, with bitter, sweet flavors that are astringent in nature and lack elegance.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "85",
+          "title": "Oak Farm 2014 Albariño (Lodi)",
+          "description": "Fruit bowl aromas, then flavors like apple, pear and banana define this soft and medium-bodied wine made from a Spanish grape variety. It is a dry wine but the flavors are so fresh it seems almost sweet.",
+          "taster_name": "Jim Gordon",
+          "taster_twitter_handle": "@gordone_cellars",
+          "price": 19,
+          "designation": null,
+          "variety": "Albariño",
+          "region_1": "Lodi",
+          "region_2": "Central Valley",
+          "province": "California",
+          "country": "US",
+          "winery": "Oak Farm",
+          "objectID": "387346112",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000> bowl aromas, then flavors like apple, pear and banana define this soft and medium-bodied wine made from a Spanish grape variety. It is a dry wine but the flavors are so fresh it seems almost sweet.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "87",
+          "title": "Vignerons de Buxy 2010 Buissonnier  (Mercurey)",
+          "description": "Fruity and tannic, this has a dry character that dominates the red fruit underneath. It's full bodied, with a nervy edge of acidity and a smoky flavor that comes from having been aged in wood.",
+          "taster_name": "Roger Voss",
+          "taster_twitter_handle": "@vossroger",
+          "price": 22,
+          "designation": "Buissonnier",
+          "variety": "Pinot Noir",
+          "region_1": "Mercurey",
+          "region_2": null,
+          "province": "Burgundy",
+          "country": "France",
+          "winery": "Vignerons de Buxy",
+          "objectID": "387338702",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and tannic, this has a dry character that dominates the red <ais-highlight-0000000000>fruit</ais-highlight-0000000000> underneath. It's full bodied, with a nervy edge of acidity and a smoky flavor that comes from having been aged in wood.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "88",
+          "title": "Quivira 2013 Sauvignon Blanc (Dry Creek Valley)",
+          "description": "Fruity and slightly effervescent, this is a classic California Sauvignon Blanc. Balanced and lingering in crisp melon and tropical fruit, it provides enough creamy texture to go well with food.",
+          "taster_name": "Virginie Boone",
+          "taster_twitter_handle": "@vboone",
+          "price": 15,
+          "designation": null,
+          "variety": "Sauvignon Blanc",
+          "region_1": "Dry Creek Valley",
+          "region_2": "Sonoma",
+          "province": "California",
+          "country": "US",
+          "winery": "Quivira",
+          "objectID": "387335162",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and slightly effervescent, this is a classic California Sauvignon Blanc. Balanced and lingering in crisp melon and tropical <ais-highlight-0000000000>fruit</ais-highlight-0000000000>, it provides enough creamy texture to go well with food.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "92",
+          "title": "Quinta Nova de Nossa Senhora do Carmo 2014 Reserva Red (Douro)",
+          "description": "Fruity and crisp, this wine hails from an estate owned by the Amorim family of cork fame, Red-berry flavors come through strongly along with spice and wood-aging flavors. The wine also has acidity, lightly toasty and with a core of tannins. Drink from 2018.",
+          "taster_name": "Roger Voss",
+          "taster_twitter_handle": "@vossroger",
+          "price": 60,
+          "designation": "Reserva",
+          "variety": "Portuguese Red",
+          "region_1": null,
+          "region_2": null,
+          "province": "Douro",
+          "country": "Portugal",
+          "winery": "Quinta Nova de Nossa Senhora do Carmo",
+          "objectID": "387334082",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and crisp, this wine hails from an estate owned by the Amorim family of cork fame, Red-berry flavors come through strongly along with spice and wood-aging flavors. The wine also has acidity, lightly toasty and with a core of tannins. Drink from 2018.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "86",
+          "title": "Ministry of the Vinterior 2013 Pinot Noir (Russian River Valley)",
+          "description": "Fruity in a grapy, plummy way, this is a substantial wine with deceptively sweet undertones that finishes dry and with a slight tang of black tea.",
+          "taster_name": "Virginie Boone",
+          "taster_twitter_handle": "@vboone",
+          "price": 17,
+          "designation": null,
+          "variety": "Pinot Noir",
+          "region_1": "Russian River Valley",
+          "region_2": "Sonoma",
+          "province": "California",
+          "country": "US",
+          "winery": "Ministry of the Vinterior",
+          "objectID": "387331912",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y in a grapy, plummy way, this is a substantial wine with deceptively sweet undertones that finishes dry and with a slight tang of black tea.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "95",
+          "title": "Tenuta dell'Ornellaia 2005 Masseto Merlot (Toscana)",
+          "description": "Fruit was picked later than normal and the Masseto Merlot does indeed show mature aromas of black cherry, ripe blackberry, earthy iron and polished stone. The intensity and purity are amazing and the wine is sophisticated, soft and very rich on the finish. It is already showing beautiful evolution in the glass.",
+          "taster_name": null,
+          "taster_twitter_handle": null,
+          "price": 460,
+          "designation": "Masseto",
+          "variety": "Merlot",
+          "region_1": "Toscana",
+          "region_2": null,
+          "province": "Tuscany",
+          "country": "Italy",
+          "winery": "Tenuta dell'Ornellaia",
+          "objectID": "387313812",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000> was picked later than normal and the Masseto Merlot does indeed show mature aromas of black cherry, ripe blackberry, earthy iron and polished stone. The intensity and purity are amazing and the wine is sophisticated, soft and very rich on the finish. It is already showing beautiful evolution in the glass.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "85",
+          "title": "Washington Hills 2015 Cabernet Sauvignon (Washington)",
+          "description": "Fruit-forward aromas of blueberry, orange peel and spice lead to medium-bodied fruit flavors. It's respectable, though it's near impossible to peg it as Cabernet.",
+          "taster_name": "Sean P. Sullivan",
+          "taster_twitter_handle": "@wawinereport",
+          "price": 10,
+          "designation": null,
+          "variety": "Cabernet Sauvignon",
+          "region_1": "Washington",
+          "region_2": "Washington Other",
+          "province": "Washington",
+          "country": "US",
+          "winery": "Washington Hills",
+          "objectID": "387313232",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>-forward aromas of blueberry, orange peel and spice lead to medium-bodied <ais-highlight-0000000000>fruit</ais-highlight-0000000000> flavors. It's respectable, though it's near impossible to peg it as Cabernet.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "85",
+          "title": "Closerie du Bailli 2014 Tradition  (Côtes de Bourg)",
+          "description": "Fruity and herbal, this fresh wine suggests ripe apples and white peaches. The crisp texture brings out the perfumed character of the fruit. The wine is ready to drink.",
+          "taster_name": "Roger Voss",
+          "taster_twitter_handle": "@vossroger",
+          "price": 38,
+          "designation": "Tradition",
+          "variety": "Bordeaux-style White Blend",
+          "region_1": "Côtes de Bourg",
+          "region_2": null,
+          "province": "Bordeaux",
+          "country": "France",
+          "winery": "Closerie du Bailli",
+          "objectID": "387305242",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and herbal, this fresh wine suggests ripe apples and white peaches. The crisp texture brings out the perfumed character of the <ais-highlight-0000000000>fruit</ais-highlight-0000000000>. The wine is ready to drink.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "92",
+          "title": "Domaine Rossignol-Février Père et Fils 2015 Les Angles Premier Cru  (Volnay)",
+          "description": "Fruity and with plenty of acidity, this is a crisp wine, still exposing the tight mineral texture. The red-currant and raspberry fruits are prominent, shot through with acidity. Drink from 2023.",
+          "taster_name": "Roger Voss",
+          "taster_twitter_handle": "@vossroger",
+          "price": 125,
+          "designation": "Les Angles Premier Cru",
+          "variety": "Pinot Noir",
+          "region_1": "Volnay",
+          "region_2": null,
+          "province": "Burgundy",
+          "country": "France",
+          "winery": "Domaine Rossignol-Février Père et Fils",
+          "objectID": "387300312",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and with plenty of acidity, this is a crisp wine, still exposing the tight mineral texture. The red-currant and raspberry <ais-highlight-0000000000>fruit</ais-highlight-0000000000>s are prominent, shot through with acidity. Drink from 2023.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "85",
+          "title": "Château Pey la Tour 2010  Bordeaux",
+          "description": "Fruity and rather soft, this already shows maturity. It's an attractive, red-fruited wine that's light and fragrant. Not for aging.",
+          "taster_name": "Roger Voss",
+          "taster_twitter_handle": "@vossroger",
+          "price": 13,
+          "designation": null,
+          "variety": "Bordeaux-style Red Blend",
+          "region_1": "Bordeaux",
+          "region_2": null,
+          "province": "Bordeaux",
+          "country": "France",
+          "winery": "Château Pey la Tour",
+          "objectID": "387295722",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y and rather soft, this already shows maturity. It's an attractive, red-<ais-highlight-0000000000>fruit</ais-highlight-0000000000>ed wine that's light and fragrant. Not for aging.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "88",
+          "title": "Kestrel 2011 Winemaker's Select Mourvèdre (Yakima Valley)",
+          "description": "Fruit and barrel mix together on this lightly colored wine with aromas of coffee, herb, woodspice and pepper. The cherry flavors are reserved in style, pulling up toward the finish.",
+          "taster_name": "Sean P. Sullivan",
+          "taster_twitter_handle": "@wawinereport",
+          "price": 40,
+          "designation": "Winemaker's Select",
+          "variety": "Mourvèdre",
+          "region_1": "Yakima Valley",
+          "region_2": "Columbia Valley",
+          "province": "Washington",
+          "country": "US",
+          "winery": "Kestrel",
+          "objectID": "387288702",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000> and barrel mix together on this lightly colored wine with aromas of coffee, herb, woodspice and pepper. The cherry flavors are reserved in style, pulling up toward the finish.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "89",
+          "title": "Schug 2012 Heritage Reserve Cabernet Sauvignon (Sonoma Valley)",
+          "description": "Fruit is sourced from multiple sites, including Sangiacomo and Rancho Salina for this elegant wine which is slight in black and blue fruit with a subtle notion of leather. Structurally, it has a deep complexity of tannins that remains integrated on the back of the palate. It's ready for the table.",
+          "taster_name": "Virginie Boone",
+          "taster_twitter_handle": "@vboone",
+          "price": 60,
+          "designation": "Heritage Reserve",
+          "variety": "Cabernet Sauvignon",
+          "region_1": "Sonoma Valley",
+          "region_2": "Sonoma",
+          "province": "California",
+          "country": "US",
+          "winery": "Schug",
+          "objectID": "387282082",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000> is sourced from multiple sites, including Sangiacomo and Rancho Salina for this elegant wine which is slight in black and blue <ais-highlight-0000000000>fruit</ais-highlight-0000000000> with a subtle notion of leather. Structurally, it has a deep complexity of tannins that remains integrated on the back of the palate. It's ready for the table.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "89",
+          "title": "Sola 2013 Meritage (California)",
+          "description": "Fruity, savory and lightly oaky flavors are supported by moderate tannins in this medium-bodied and well-balanced blend of Merlot and Cabernet Sauvignon. Mint, cedar and thyme aromas give way to red cherry, raspberry and sage flavors on the palate, and the mouthfeel strikes a balance between suppleness and a light tannic bite.",
+          "taster_name": "Jim Gordon",
+          "taster_twitter_handle": "@gordone_cellars",
+          "price": 15,
+          "designation": null,
+          "variety": "Meritage",
+          "region_1": "California",
+          "region_2": "California Other",
+          "province": "California",
+          "country": "US",
+          "winery": "Sola",
+          "objectID": "387280072",
+          "_highlightResult": {
+            "description": {
+              "value": "<ais-highlight-0000000000>Fruit</ais-highlight-0000000000>y, savory and lightly oaky flavors are supported by moderate tannins in this medium-bodied and well-balanced blend of Merlot and Cabernet Sauvignon. Mint, cedar and thyme aromas give way to red cherry, raspberry and sage flavors on the palate, and the mouthfeel strikes a balance between suppleness and a light tannic bite.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        },
+        {
+          "points": "91",
+          "title": "Barrister 2009 Cabernet Franc (Columbia Valley (WA))",
+          "description": "The fruit for this excellent Cabernet Franc is sourced from wide-ranging vineyards throughout the Yakima, Columbia and Walla Walla valleys. Aged 18 months in a mix of French, American and Hungarian oak, it is the most accessible of the new red wine releases from Barrister. The tart red fruits are coated with creamy caramel and pretty toast notes, and it sails like clean silk into a long, smooth, buttery finish.",
+          "taster_name": "Paul Gregutt",
+          "taster_twitter_handle": "@paulgwine ",
+          "price": 28,
+          "designation": null,
+          "variety": "Cabernet Franc",
+          "region_1": "Columbia Valley (WA)",
+          "region_2": "Columbia Valley",
+          "province": "Washington",
+          "country": "US",
+          "winery": "Barrister",
+          "objectID": "387375302",
+          "_highlightResult": {
+            "description": {
+              "value": "The <ais-highlight-0000000000>fruit</ais-highlight-0000000000> for this excellent Cabernet Franc is sourced from wide-ranging vineyards throughout the Yakima, Columbia and Walla Walla valleys. Aged 18 months in a mix of French, American and Hungarian oak, it is the most accessible of the new red wine releases from Barrister. The tart red <ais-highlight-0000000000>fruit</ais-highlight-0000000000>s are coated with creamy caramel and pretty toast notes, and it sails like clean silk into a long, smooth, buttery finish.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["fruit"]
+            }
+          }
+        }
+      ],
+      "nbHits": 4591,
+      "page": 0,
+      "nbPages": 50,
+      "hitsPerPage": 20,
+      "processingTimeMS": 1,
+      "exhaustiveNbHits": false,
+      "query": "FRUIT",
+      "params": "query=FRUIT&page=0&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&facets=%5B%5D&tagFilters=",
+      "index": "wine_reviews"
+    }
+  ]
+}

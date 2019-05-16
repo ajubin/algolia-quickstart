@@ -1,0 +1,3 @@
+rootProject.name = 'winering'
+
+include ':app'
