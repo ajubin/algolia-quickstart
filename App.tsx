@@ -11,14 +11,26 @@
 import React, { Component } from "react";
 import { StyleSheet, SafeAreaView } from "react-native";
 import { SearchBox, InfiniteHits } from "./src/components";
+import {
+  ALGOLIA_APP_ID,
+  ALGOLIA_INDEX_NAME,
+  ALGOLIA_SEARCH_KEY,
+} from "react-native-dotenv";
+import { InstantSearch } from "react-instantsearch-native";
 
 interface Props {}
 export class App extends Component<Props> {
   render() {
     return (
       <SafeAreaView style={styles.container}>
-        <SearchBox />
-        <InfiniteHits />
+        <InstantSearch
+          apiKey={ALGOLIA_SEARCH_KEY}
+          appId={ALGOLIA_APP_ID}
+          indexName={ALGOLIA_INDEX_NAME}
+        >
+          <SearchBox />
+          <InfiniteHits />
+        </InstantSearch>
       </SafeAreaView>
     );
   }
