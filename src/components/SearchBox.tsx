@@ -1,9 +1,20 @@
 import React from "react";
 import { TextInput, StyleSheet, View } from "react-native";
+import { connectSearchBox } from "react-instantsearch/connectors";
 
-export const SearchBox: React.FC = () => (
+interface Props {
+  onChangeText: (text: string) => void;
+  value: string;
+}
+
+export const SearchBoxComponent: React.FC<Props> = ({
+  onChangeText,
+  value,
+}) => (
   <View style={styles.searchTextContainer}>
     <TextInput
+      onChangeText={onChangeText}
+      value={value}
       style={styles.textBox}
       placeholder="fruity red and spicy"
       placeholderTextColor="#BBBBBB"
@@ -14,6 +25,15 @@ export const SearchBox: React.FC = () => (
     />
   </View>
 );
+
+export const SearchBox = connectSearchBox(({ refine, currentRefinement }) => {
+  return (
+    <SearchBoxComponent
+      onChangeText={text => refine(text)}
+      value={currentRefinement}
+    />
+  );
+});
 
 const styles = StyleSheet.create({
   textBox: {
