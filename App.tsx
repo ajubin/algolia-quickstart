@@ -9,14 +9,14 @@
  */
 
 import React, { Component } from "react";
-import { StyleSheet, SafeAreaView } from "react-native";
+import { StyleSheet, SafeAreaView, Text } from "react-native";
 import { SearchBox, InfiniteHits } from "./src/components";
 import {
   ALGOLIA_APP_ID,
   ALGOLIA_INDEX_NAME,
   ALGOLIA_SEARCH_KEY,
 } from "react-native-dotenv";
-import { InstantSearch } from "react-instantsearch-native";
+import { InstantSearch, connectStats } from "react-instantsearch-native";
 
 interface Props {}
 export class App extends Component<Props> {
@@ -29,12 +29,19 @@ export class App extends Component<Props> {
           indexName={ALGOLIA_INDEX_NAME}
         >
           <SearchBox />
+          <ConnectedStats />
           <InfiniteHits />
         </InstantSearch>
       </SafeAreaView>
     );
   }
 }
+
+const ConnectedStats = connectStats(({ nbHits }) => (
+  <Text style={{ paddingLeft: 16 }}>
+    {nbHits.toLocaleString()} wine matching !
+  </Text>
+));
 
 const styles = StyleSheet.create({
   container: {
