@@ -1,6 +1,5 @@
 import React from "react";
 import { StyleSheet, Text, View, FlatList } from "react-native";
-import { Hit } from "../interfaces/algolia";
 import { connectInfiniteHits } from "react-instantsearch-native";
 
 interface Props {
