@@ -1,15 +1,17 @@
-# Formation algolia
+# Algolia and react native
 
-`react-native init APP --template typescript && node APP/setup.js`
-`cd APP`
-`git init` : premier commit à faire
+You can find the tutorial on [this website](https://blog.bam.tech/developper-news/how-to-integrate-the-powerful-algolia-search-engine-in-your-react-native-app)
 
-Ensuite go sur kaggle for [dataset](https://www.kaggle.com/zynicide/wine-reviews/version/4)
+The dataset is available on kaggle [here](https://www.kaggle.com/zynicide/wine-reviews/version/4).
 
-Créer un compte sur algolia, créer un nouvel indice à la main, voir comment ca marche
+If you want a file of 10.000 lines only, it's available [here](https://gist.github.com/ajubin/d331f3251db4bd239c7a1efd0af54e38)
 
-50MB max upload => couper le fichier
-npx json-split --json=../../winemag-data-130k-v2.json --line=50000
-upload files separately
+## Installation
 
-mv .env.dist .env et mettre vos informations
+Assuming that Xcode and react native are already installed, you should run the following commands :
+
+```bash
+$ yarn
+$ cd ios && bundle exec pod install && cd ..
+$ react-native run-ios
+```
